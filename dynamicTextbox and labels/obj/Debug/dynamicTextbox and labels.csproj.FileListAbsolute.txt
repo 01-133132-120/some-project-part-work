@@ -1,0 +1,9 @@
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\bin\Debug\dynamicTextbox and labels.exe.config
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\bin\Debug\dynamicTextbox and labels.exe
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\bin\Debug\dynamicTextbox and labels.pdb
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox and labels.csprojResolveAssemblyReference.cache
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox_and_labels.Form1.resources
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox_and_labels.Properties.Resources.resources
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox and labels.csproj.GenerateResource.Cache
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox and labels.exe
+c:\users\mshome\documents\visual studio 2013\Projects\dynamicTextbox and labels\dynamicTextbox and labels\obj\Debug\dynamicTextbox and labels.pdb
